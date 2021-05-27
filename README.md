@@ -1,0 +1,2 @@
+# bootnewsmypro
+Project bootstrap
